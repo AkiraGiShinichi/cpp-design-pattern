@@ -1,7 +1,7 @@
 # Common Design Patterns in C++
 
 ## List:
- - Pimpl(Pointer Implementation)
+ - [Pimpl(Pointer Implementation)](x01Pimpl)
  - Singleton
  - ...
 
